@@ -1,4 +1,26 @@
-## Hi there 👋
+# CLOZHI TECHNOLOGY
+
+Change your organization’s avatar
+
+# Hi there 👋
+
+# About Us 🚀
+
+CLOZHI TECHNOLOGY is a cutting-edge tech firm specializing in secure data infrastructure, cloud storage, and end-to-end cybersecurity solutions. We deliver high-performance, enterprise-grade technologies that protect critical data, ensure privacy compliance, and power trusted digital operations for global businesses.
+
+# Core Focus 🛡️
+
+Secure Data Infrastructure 💾
+
+Private & Hybrid Cloud Storage ☁️
+
+End-to-End Cybersecurity Solutions 🔒
+
+Zero Trust & Data Protection Architectures 🛡️
+
+Enterprise-Grade Security & Compliance ✅
+
+Built for security. Engineered for trust. 🤝
 
 <!--
 
