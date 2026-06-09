@@ -1,7 +1,5 @@
 # CLOZHI TECHNOLOGY
 
-Change your organization’s avatar
-
 # Hi there 👋
 
 # About Us 🚀
